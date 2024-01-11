@@ -8,7 +8,7 @@
 ###
 
 <p align="left">Self-taught web developer with a passion for creating innovative and user-friendly
-websites.And love to create magic with lines of code</p>
+websites.And love to create magic with lines of code✨</p>
 
 ###
 
@@ -16,8 +16,10 @@ websites.And love to create magic with lines of code</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br><br>🧠 I’m currently learning MERN stack <br> <br>📚  📫 To reach me shoot a mail at : vaishakhp2024@gmail.com
-<br> </p>
+<p align="left">✨ Creating bugs since 2022<br><br>🧠 I’m currently learning MERN stack <br> <br>📚  
+<br><br> </p>
+
+📫 To reach me shoot a mail at : vaishakhp2024@gmail.com
 
 ###
 
