@@ -16,8 +16,8 @@ websites.And love to create magic with lines of code</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚  📫 To reach me shoot a mail at : vaishakhp2024@gmail.com
-<br> 🧠 I’m currently learning MERN stack</p>
+<p align="left">✨ Creating bugs since 2022<br><br>🧠 I’m currently learning MERN stack <br> <br>📚  📫 To reach me shoot a mail at : vaishakhp2024@gmail.com
+<br> </p>
 
 ###
 
